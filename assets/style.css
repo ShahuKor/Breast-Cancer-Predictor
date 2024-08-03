@@ -1,0 +1,30 @@
+.st-emotion-cache-j5r0tf{
+ border-radius: 0.5rem;
+ background-color: #221730;
+ text-align: left;
+ padding-left: 20px;
+ padding-top: 50px;
+}
+.diagnosis{
+color: #fff;
+padding: 6px;
+}
+
+.diagnosis.benign{
+background-color: #1a6e37;
+border-radius: 8px;
+}
+.diagnosis.malicious{
+background-color: #ff4b4b;
+border-radius: 25px;
+}
+#breast-cancer-predictor{
+background-color:#221730;
+text-align: center;
+border-radius: 15px;
+margin-bottom: 20px;
+}
+
+.st-emotion-cache-6qob1r{
+background-color:#221730;
+}
